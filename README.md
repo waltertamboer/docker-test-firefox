@@ -25,3 +25,8 @@ docker run \
     -v /tmp/.X11-unix:/tmp/.X11-unix \
     firefox
 ```
+
+## Credits
+
+Learned this by reading an article written by [Fábio Rehm](https://github.com/fgrehm):
+* http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker
