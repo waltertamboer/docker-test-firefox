@@ -1,4 +1,4 @@
-# docker-test-firefox
+# experiment-docker-firefox
 
 A test I did to get Firefox running via Docker with a graphical window.
 
